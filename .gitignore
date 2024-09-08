@@ -1,0 +1,7 @@
+
+
+product/data
+!product/data/.gitignore
+inventory/inventory-service/docker/mysql/data
+!inventory/inventory-service/docker/mysql/data/.gitignore
+
